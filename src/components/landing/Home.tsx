@@ -1,6 +1,4 @@
-import { useEffect, useState } from "react";
 import React from "react";
-import narratives from "../../data/narratives.json";
 import "./Home.css";
 import Jesus from "../../assets/images/Jesus.jpeg";
 

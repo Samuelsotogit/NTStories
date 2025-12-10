@@ -7,11 +7,13 @@ export default function AppNavbar() {
   return (
     <Navbar bg="light" expand="lg" className="app-navbar">
       <Container className="navbar-inner">
-        <Navbar.Brand>GospelVisual</Navbar.Brand>
+        <Navbar.Brand as={NavLink} to="/home">
+          NTStories
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="navigation-bar">
-            <Nav.Link as={NavLink} to="/" end>
+            <Nav.Link as={NavLink} to="/home" end>
               Home
             </Nav.Link>
             <Nav.Link as={NavLink} to="/commission">
