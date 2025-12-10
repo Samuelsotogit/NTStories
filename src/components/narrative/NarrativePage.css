@@ -1,0 +1,32 @@
+.narrative-page {
+  position: relative;
+  color: #fff;
+}
+.narrative-overlay {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2rem 1rem 0 1rem; /* space for navbar */
+}
+.narrative-card {
+  max-width: 900px;
+  background: rgba(0, 0, 0, 0.55);
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+.reference {
+  opacity: 0.9;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.narrative-image {
+  width: 80%;
+  max-width: 900px;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}

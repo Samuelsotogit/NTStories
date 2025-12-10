@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "commission",
+    "book": "Mark",
+    "chapter": 16,
+    "title": "The Great Commission",
+    "reference": "Mark 16:15-18",
+    "narrative": "Before His ascension, Jesus gave His disciples a commission to spread His teachings to all the world.",
+    "verse": "And he said unto them, Go ye into all the world, and preach the gospel to every creature. He that believeth and is baptized shall be saved; but he that believeth not shall be damned. And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues; They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.",
+    "image": "commission.jpeg",
+    "mobileImage": "commission-mobile.jpg",
+    "focalPoint": "50% 35%"
+  },
+  {
+    "slug": "ascension",
+    "book": "Acts",
+    "chapter": 1,
+    "title": "The Acts of the Apostles",
+    "reference": "Acts 1:6-8",
+    "narrative": "Eventually, He left the church in the hands of the apostles. From now on, He would continue His work mostly through them.",
+    "verse": "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel? And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power. But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.",
+    "image": "ascension.jpeg",
+    "focalPoint": "center top"
+  },
+  {
+    "slug": "pentecost",
+    "book": "Acts",
+    "chapter": 2,
+    "title": "The Day of Pentecost",
+    "reference": "Acts 2:37-42",
+    "narrative": "As a result of the apostles' preaching on the day of Pentecost, about three thousand people were baptized and added to the church. The church began to grow rapidly.",
+    "verse": "Now when they heard this, they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men and brethren, what shall we do? Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost. For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call. And with many other words did he testify and exhort, saying, Save yourselves from this untoward generation. Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls.",
+    "image": "pentecost.jpeg",
+    "focalPoint": "50% 40%"
+  },
+  {
+    "slug": "martyr",
+    "book": "Acts",
+    "chapter": 7,
+    "title": "The Martyrdom of Stephen",
+    "reference": "Acts 7:55-59",
+    "narrative": "Stephen was stoned to death for his testimony of Jesus Christ. He became the first Christian martyr. His testimony of Jesus Christ, even in the face of death, is a powerful example of true faith in Christ.",
+    "verse": "But he, being full of the Holy Ghost, looked up steadfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God. Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord, And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man’s feet, whose name was Saul. And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit.",
+    "image": "stephen.jpeg",
+    "focalPoint": "50% 30%"
+  },
+  {
+    "slug": "damascus",
+    "book": "Acts",
+    "chapter": 9,
+    "title": "The Conversion of Saul",
+    "reference": "Acts 9:3-6",
+    "narrative": "Saul, a zealous persecutor of Christians, was converted to the gospel of Jesus Christ after a miraculous encounter with the Savior on the road to Damascus.",
+    "verse": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven: And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks. And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.",
+    "image": "damascus.jpeg",
+    "focalPoint": "50% 40%"
+  }
+]

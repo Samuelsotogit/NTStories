@@ -1,0 +1,26 @@
+/* Make the inner container flex so brand + nav links are spaced evenly */
+.navbar-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between; /* Brand left, links right */
+  width: 100%;
+}
+
+/* Make the nav links evenly spaced */
+.navigation-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* evenly spaced links */
+  gap: 20px; /* optional spacing between links */
+  width: 100%; /* makes justify-content work */
+  /* padding-left: 2rem;
+  padding-right: 2rem; */
+}
+
+/* Optional: fix navbar full width */
+.app-navbar {
+  width: 75vw;
+  max-width: 100vw;
+  border-radius: 8px;
+}
